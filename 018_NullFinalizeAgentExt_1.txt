@@ -1,0 +1,35 @@
+Token name: DEN
+
+Token ticker: DEN
+
+Token decimals: 8
+
+Multisig wallet address: 0xaAf6BbeC80F1EE72829A008185dEBfb9393f9c83
+
+*****************************
+
+Crowdsale rate: 10000
+
+Crowdsale start time: 2018-01-23T17:40 (GMT + 5.5)
+
+Crowdsale end time: 2018-01-27T00:58:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for PrimeVIP: 0xaA9742de77a225598b6d72Af0EC2AF5382DfbF01
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for PrimeVIP:**** 
+
+000000000000000000000000cfeb24929617aec268565946c000212b7e92ab0b

@@ -1,0 +1,35 @@
+Token name: DEN
+
+Token ticker: DEN
+
+Token decimals: 8
+
+Multisig wallet address: 0xaAf6BbeC80F1EE72829A008185dEBfb9393f9c83
+
+*****************************
+
+Crowdsale rate: 2500
+
+Crowdsale start time: 2018-01-30T00:28:00 (GMT + 5.5)
+
+Crowdsale end time: 2018-02-02T00:58:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for Honor: 0xd6a109256cE74Ba7D0cd1CD2eCE2E368F745767a
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for Honor:**** 
+
+000000000000000000000000a2968a1f753fd873549b566831abb99d4f5f503f00000000000000000000000091da1cb6717acbe91c1bb5f832a477ba8b66dfb3
